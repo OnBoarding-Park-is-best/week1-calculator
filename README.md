@@ -2,7 +2,7 @@
 와이어바알리/레드브릭 📈</h1>
 
 ## 🚀 배포
-🔗 **과제물**(aws s3): http://calculator-park-is-best.s3-website.ap-northeast-2.amazonaws.com/
+🔗 **과제물**(heroku): http://calculator-park-is-best.herokuapp.com/
 
 크로스 브라우징은 상정하지 않고 개발하였기 때문에 구글 크롬으로 확인해주시면 감사하겠습니다!
 
